@@ -5,11 +5,21 @@
 h3 {
     text-align: center, justify;
     color: rgb(115, 127, 138);
+    font-family: Arial;
 }
 p {
     text-align: center, justify;
-    color: #CACFD2;
+    color: #919ba1;
+    font-family: Arial;
 }
 button {
-    color: white;
+    color: rgb(61, 58, 58);
+    font-family: Arial;
+    padding: 10px;
+    background: #e3e3e3;
+    border: unset;
+    cursor: pointer;
+}
+body {
+    background-color: black;
 }
